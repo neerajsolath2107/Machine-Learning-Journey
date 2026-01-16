@@ -63,13 +63,6 @@ Data Analytics means:
 ✔ Uses less memory  
 ✔ Supports vectorized operations  
 
----
-
-### 📌 NumPy Array
-```python
-import numpy as np
-arr = np.array([1, 2, 3])
-
 ### 🔥 Important Concepts
   ndarray – Homogeneous data type
   Shape – Dimensions of array
